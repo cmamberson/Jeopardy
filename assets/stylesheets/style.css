@@ -1,0 +1,37 @@
+body {
+  background: #0000FF;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+}
+form{
+  padding-bottom: 50px;
+}
+h1{
+  color: #FFFFFF;
+  font-size: 30px;
+  padding-bottom: 50px;
+}
+.mainDiv{
+  width: 50%;
+  border: 5px #FFFFFF solid;
+
+}
+
+.col-md-4{
+  color: #FFFFFF;
+  font-size: 12px;
+  padding-bottom: 50px;
+}
+
+.sco{
+  color: #f4ee42;
+  font-size: 12px;
+}
+
+.quest{
+  color: #FFFFFF;
+  font-size: 20px;
+  padding-bottom: 30px;
+}
